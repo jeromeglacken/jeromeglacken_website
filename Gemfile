@@ -12,6 +12,7 @@ group:jekyll_plugins do
    gem 'octopress-social'
    gem 'octopress-linkblog'
    gem 'octopress-filters'
+   gem 'octopress-filter-tag'
    gem 'octopress-comment-tag'
    gem 'octopress-video-tag'
    gem 'octopress-pullquote-tag'
