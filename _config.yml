@@ -85,3 +85,13 @@ gems:
    - octopress-pullquote-tag
    - jekyll-sitemap
 
+links:
+   - title: Posts
+     url: /
+   - title: Archive
+     url: /archive
+   - title: About
+     url: /about
+   - title: Subscribe
+     url: /feed.xml
+
